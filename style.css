@@ -2,9 +2,9 @@
     background-color: aqua;
 }
 .titulo{
-    fomte-size:50px;color:aliceblue;background:red;text-align:center
+    font-size:50px;color:aliceblue;background:red;text-align:center
 }
-.texto-imc[
+.texto-imc{
     font-size:50px;
     text-align:center;
-]
+}
